@@ -14,7 +14,8 @@
   },
   "main": "index.js",
   "bin": {
-    "better-npm-run": "index.js"
+    "better-npm-run": "index.js",
+    "bnr": "index.js"
   },
   "scripts": {
     "test": "node index.js test --test"
